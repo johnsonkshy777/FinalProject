@@ -1,0 +1,13 @@
+# City Employee Earnings — Analysis
+
+## Overview
+This repository contains code to download, clean, analyze and visualize the "City Employee Earnings - 2019 to this year's most recent quarter" dataset (City of Philadelphia), using Python (`numpy`, `pandas`, `matplotlib`) and simple web scraping to capture dataset metadata.
+
+Dataset page (catalog): https://catalog.data.gov/dataset/city-employee-earnings/resource/e675dc02-55b2-4edf-911f-692ee47de363. :contentReference[oaicite:3]{index=3}
+
+## Requirements
+- Python 3.9+
+- Packages:
+  - pandas
+  - numpy
+  - matplotlib
